@@ -1,6 +1,6 @@
 # Performance-and-MachineLearning
 
-This is the repository for the class "AI & Performance", lesson 2.
+This is the repository for the class "AI & Performance", lesson 2, at Elisava, Barcelona.
 
 You will find the code examples and some instructions to follow. 
 
