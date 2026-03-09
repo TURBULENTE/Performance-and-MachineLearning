@@ -11,5 +11,8 @@ Enjoy!
 ## Installations required
 
 Mobile Phones:
-  - [x] [Sensors2OSC (Android)](https://sensors2.org/osc/)
-  - [ ] 
+  - [ ] [Sensors2OSC (Android)](https://sensors2.org/osc/)
+  - [ ] [ZIG SIM (OS)](https://apps.apple.com/us/app/zig-sim/id1112909974)
+
+Computer:
+- [ ] [Processing](https://processing.org/download)
