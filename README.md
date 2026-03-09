@@ -10,4 +10,4 @@ Enjoy!
 
 ## Installations required
 
-- [] hola
+-[x] hola
