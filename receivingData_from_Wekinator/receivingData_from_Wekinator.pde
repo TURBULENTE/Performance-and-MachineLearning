@@ -12,7 +12,7 @@ color colorTwo= #ffff80;
 color colorThree= #9580ff;
 //Advanced: You could use an array: color[] myColor = {#e8e8e8, #ffff80, #9580ff};
 
-// IMPORTAMOS LA LIBRERÍA
+// Importing Library
 import oscP5.*;
 import netP5.*;
 
