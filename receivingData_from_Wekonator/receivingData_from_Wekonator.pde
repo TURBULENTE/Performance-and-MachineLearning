@@ -40,7 +40,7 @@ void draw() {
     background(colorThree);
   }
   /* If using a color array:
-   background(miColor[int(clase)]);
+   background(miColor[int(cd)]);
    */
 }
 
