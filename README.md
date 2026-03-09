@@ -17,3 +17,17 @@ Mobile Phones:
 Computer:
 - [x] [Processing](https://processing.org/download)
 - [x] [Wekinator](https://doc.gold.ac.uk/~mas01rf/Wekinator/)
+
+---
+
+## Markov Chains Installations
+For this exercise you will need to install:
+- [x] [Python](https://www.python.org/) A programming language
+
+Mac Users:
+1. Open a new terminal window
+2. Install pip
+
+Windows users:
+
+
