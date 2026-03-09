@@ -20,11 +20,18 @@ Computer:
 
 ---
 
-## Markov Chains Installations
+## For the Markov Model Exercise
 For this exercise you will need to install:
-- [x] [Python](https://www.python.org/) A programming language
+- [x] [Python](https://www.python.org/) 
+- [x] [Markovify](https://pypi.org/project/markovify/) A library to create chains based on a specific data base.
 
 Mac Users:
+macOS usually has Python 2 pre-installed (outdated). Please install Python 3.
+- [x] 🌐 Website: Go to [Web](python.org/downloads)
+- [x] Download the .pkg installer for macOS
+- [x] Open it and follow the setup wizard
+
+
 1. Open a new terminal window
 2. Install pip
 
