@@ -11,5 +11,5 @@ Enjoy!
 ## Installations required
 
 Mobile Phones:
-  **Android**
-  - [x] hola
+  - [x] [Sensors2OSC (Android)](https://sensors2.org/osc/)
+  - [ ] 
