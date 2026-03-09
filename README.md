@@ -44,7 +44,7 @@ Wait for it to finish. You'll see  Successfully installed markovify-X.X.X
 **Windows Users:**
 1. Go to [Downloads Web](python.org/downloads)
 2. Download "Python 3.x.x"
-⚠️  During installation:
+⚠️ Important! During installation:
 Check the box  "Add Python to PATH"  before clicking Install Now
 - Run: Click 
 - Install Now
@@ -59,15 +59,5 @@ Wait for the download to finish. You'll see:  Successfully installed markovify-X
 
 
 
-
-
-
-
-
-
-1. Open a new terminal window
-2. Install pip
-
-Windows users:
 
 
