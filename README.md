@@ -10,4 +10,6 @@ Enjoy!
 
 ## Installations required
 
--[x] hola
+Mobile Phones:
+  **Android**
+  - [x] hola
