@@ -20,6 +20,7 @@ Mobile Phones:
 Installations required:
 Computer:
 - [x] [Wekinator](https://doc.gold.ac.uk/~mas01rf/Wekinator/)
+Here you can find the detailed [Wekinator Manual](https://doc.gold.ac.uk/~mas01rf/Wekinator/detailed-instructions/).
 
 ## 🛜 Exercise 3 - Sending our classified data and triggering audio-visual behaviours
 Installations required:
