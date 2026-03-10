@@ -45,7 +45,9 @@ _pip3 --version_
 If it does not appear, install it with the command:
 _python3 -m ensurepip --upgrade_
 5. Install Markovify, using the terminal window with the command:
+
 _pip3 install markovify_
+
 Wait for it to finish. You'll see  Successfully installed markovify-X.X.X
 
 **Windows Users:**
