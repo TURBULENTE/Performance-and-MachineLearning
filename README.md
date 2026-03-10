@@ -20,7 +20,7 @@ Installations required:
 Computer:
 - [x] [Wekinator](https://doc.gold.ac.uk/~mas01rf/Wekinator/)
 
-## 🛜 Exercise 3 - Sending classified data through a local network
+## 🛜 Exercise 3 - Sending our classified data and triggering audio-visual behaviours
 Installations required:
 - [x] [Processing](https://processing.org/download)
 - [X] Processing OSC Library
