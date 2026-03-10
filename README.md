@@ -23,7 +23,9 @@ Computer:
 ## 🛜 Exercise 3 - Sending classified data through a local network
 Installations required:
 - [x] [Processing](https://processing.org/download)
-Exercises:
+- [X] Processing OSC Library
+      Tools --> Manage Tools --> Libraries --> oscP5 Library by Andreas Schlegel --> Install
+      
 
 ## 💬 Exercise 4 - A poetic (or not) Markov Model 
 For this exercise you will need to install:
