@@ -15,14 +15,14 @@ Mobile Phones:
   - [x] [Sensors2OSC (Android)](https://sensors2.org/osc/)
   - [x] [ZIG SIM (OS)](https://apps.apple.com/us/app/zig-sim/id1112909974)
 
-## Exercise 2 - Classifying Data
+## 🗂️ Exercise 2 - Classifying Data
 Computer:
 - [x] [Wekinator](https://doc.gold.ac.uk/~mas01rf/Wekinator/)
 
-## Exercise 3 - Sending classified data through a local network
+## 🛜 Exercise 3 - Sending classified data through a local network
 - [x] [Processing](https://processing.org/download)
 
-## Exercise 4 - A poetic (or not) Markov Model 
+## 💬 Exercise 4 - A poetic (or not) Markov Model 
 For this exercise you will need to install:
 - [x] [Python](https://www.python.org/) 
 - [x] [Markovify](https://pypi.org/project/markovify/) A library to create chains based on a specific data base.
