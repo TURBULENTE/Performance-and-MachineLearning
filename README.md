@@ -24,12 +24,12 @@ Computer:
 Installations required:
 - [x] [Processing](https://processing.org/download)
 - [X] Processing OSC Library
-      Tools --> Manage Tools --> Libraries --> oscP5 Library by Andreas Schlegel --> Install
-      
+      Tools --> Manage Tools --> Libraries --> oscP5 Library by Andreas Schlegel --> Install    
 
 ## 💬 Exercise 4 - A poetic (or not) Markov Model 
 For this exercise you will need to install:
-- [x] [Python](https://www.python.org/) 
+- [x] [Python](https://www.python.org/) Programming language.
+- [x] [Brackets](https://brackets.io/) Code editor. (Or similar of your preference)
 - [x] [Markovify](https://pypi.org/project/markovify/) A library to create chains based on a specific data base.
 This installation needs a little bit more time, please follow the next instructions:
 
@@ -39,11 +39,11 @@ macOS usually has Python 2 pre-installed (outdated). Please install Python 3.
 2. Download the .pkg installer for macOS
 3. Open it and follow the setup wizard
 4. To verify the installation, open a new terminal window and write the command:
-pip3 --version
+_pip3 --version_
 If it does not appear, install it with the command:
-python3 -m ensurepip --upgrade
+_python3 -m ensurepip --upgrade_
 5. Install Markovify, using the terminal window with the command:
-pip3 install markovify
+_pip3 install markovify_
 Wait for it to finish. You'll see  Successfully installed markovify-X.X.X
 
 **Windows Users:**
@@ -54,7 +54,7 @@ Check the box  "Add Python to PATH"  before clicking Install Now
 - Run: Click 
 - Install Now
 3. Verify the installation. Go to "Start Menu" and search "cmd" or "Power Shell"
-Type: python --version
+Type: _python --version_
 - If you see a version number, pip is ready. If not, revisit Step 1 and 2.
 - If pip doesn't work, try: _python -m ensurepip --upgrade_
 4. Install markovify
