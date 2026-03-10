@@ -10,7 +10,7 @@ Enjoy!
 
 ## Installations required
 
-## Exercise 1 - XYZ Movements
+## 🧭 Exercise 1 - XYZ Movements
 Mobile Phones:
   - [x] [Sensors2OSC (Android)](https://sensors2.org/osc/)
   - [x] [ZIG SIM (OS)](https://apps.apple.com/us/app/zig-sim/id1112909974)
