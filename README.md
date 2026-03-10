@@ -2,7 +2,8 @@
 
 This is the repository for the class "AI & Performance", lesson 2, at Elisava, Barcelona.
 
-You will find the code examples and some instructions to follow. 
+You will find the [Class Presentation Here](https://docs.google.com/presentation/d/122Hv51sj0lYj1T4LIpp7cBeRQQk7nb3w621CGO-WnY4/edit?usp=sharing), 
+and below, the code examples and some instructions to follow. 
 
 Enjoy!
 
